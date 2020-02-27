@@ -1,7 +1,5 @@
 ## 소개
 
----
-
 Oracle Database는 JSON 데이터 모델에 기반한 Schema-less 애플리케이션 개발을 완벽하게 지원합니다. 이를 통해 NoSQL 문서 저장소가 갖는 일체의 스키마 유연성 및 신속한 애플리케이션 개발 방법론을 Oracle Database의 모든 엔터프라이즈 급 기능과 결합하여 사용할 수 있습니다.
 
 - Simple Oracle Document Access (SODA)  
