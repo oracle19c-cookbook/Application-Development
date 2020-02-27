@@ -1,5 +1,7 @@
 ## 소개
 
+![](https://github.com/oracle19c-cookbook/Application-Development/blob/master/App%20continuty/App_continuity.jpg)
+
 Application Continuity는 Oracle Real Application Clusters 및 Oracle Active Data Guard 옵션에서 사용할 수 있는 기능으로 데이터베이스 서버 단의 장애 발생 후 그 복구 과정이 이루어지는 과정에서, 장애 발생 시점에 이미 실행 중이었던 세션도 자동으로 복구해 주는 기능입니다. 사용자 및 어플리케이션 입장에서는 장애가 약간의 지연된 실행으로 나타날 뿐 서비스의 중단을 경험하지 않습니다.
 
 Application Continuity는 서버 장애와 같은 계획되지 않은 다운타임은 물론이고 유지 보수 작업과 같은 계획된 다운 타임 모두에 적용되어 고가용성 경험을 극대화시킵니다.
