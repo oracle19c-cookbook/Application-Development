@@ -25,7 +25,7 @@ Oracle 데이터베이스는 JSON 데이터 모델에 기반한 Schema-less 애�
 
 ## 참고 자료
 
-- [Oracle 데이터베이스를 이용한 Schemaless 어플리케이션 개발](https://www.oracle.com/technetwork/database/schemaless-appdev-2603887.pdf)
-- [SODA를 이용한 Schemaless 어플리케이션 개발](https://www.oracle.com/technetwork/database/appdev-with-soda-2606220.pdf)
+- [백서: Oracle 데이터베이스를 이용한 Schemaless 어플리케이션 개발](https://www.oracle.com/technetwork/database/schemaless-appdev-2603887.pdf)
+- [백서: SODA를 이용한 Schemaless 어플리케이션 개발](https://www.oracle.com/technetwork/database/appdev-with-soda-2606220.pdf)
 - [샘플 어플리케이션: Oracle Movie Ticketing Application (NODE.js with Soda for REST)](https://www.oracle.com/technetwork/database/oracle-moivie-ticketing-12c-node-3407483.pdf)
-- [Oracle DB 내의 JSON 데이터 조회](https://www.oracle.com/technetwork/database/sql-json-wp-2604702.pdf)
+- [백서: Oracle DB 내의 JSON 데이터 조회](https://www.oracle.com/technetwork/database/sql-json-wp-2604702.pdf)
