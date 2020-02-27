@@ -4,10 +4,10 @@ Oracle Application Express(APEX)는 데이터베이스 기반의 웹 어플리�
 
 ![](https://github.com/oracle19c-cookbook/Application-Development/blob/master/APEX/dark-hero-screenshot.png)
 
-Oracle APEX는 Oracle Database에서 완전하게 지원되는 무료 제공 기능입니다. 즉, Oracle Database를 보유했다면 기존 Oracle Database에 Oracle APEX를 간단히 설치할 수 있습니다. 
+Oracle APEX는 Oracle 데이터베이스에서 무료로 제공되는 기능입니다. 즉, Oracle 데이터베이스를 보유했다면 기존 Oracle 데이터베이스에 Oracle APEX를 간단히 설치할 수 있습니다. Oracle Autonomous 데이터베이스의 경우 이미 설치가 된 상태이므로 바로 사용할 수 있습니다.  
 
-- Oracle APEX의 최대의 이점 중 한 가지는 Oracle Database 기능에 대한 기본 액세스가 제공된다는 점입니다.
-- Oracle APEX의 또 하나의 특장점은 로우 코드 방식의 개발입니다. 이는 조직의 민첩성을 높임으로써 솔루션 개발 속도를 높이고 비용은 줄이며 일관성을 높여줍니다. 또한, 변화하는 요구사항에 간편히 대응할 수 있습니다.
+- Oracle APEX의 최대의 이점 중 한 가지는 Oracle 데이터베이스의 각종 기능들에 대한 기본적이고 직접적인 액세스가 제공된다는 점입니다.
+- Oracle APEX의 또 하나의 특장점은 GUI 중심의 로우 코드 (Low Code) 기반 개발 방식이라는 점입니다. 이는 개발 및 관리의 민첩성을 높임으로써 솔루션 및 어플리케이션 개발 속도를 높이고 비용은 줄이며 일관성을 높여줍니다. 또한 변화하는 요구사항에 신속하게 대응할 수 있습니다.
 
 
 ## Hands-On
